@@ -7,7 +7,7 @@ function whisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  return "I can/'t hear you!" 
+  return 
 }
 
 function logShout(string) {
